@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/min/work/demo4_pro/main.c
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+wait.h
+-
+
