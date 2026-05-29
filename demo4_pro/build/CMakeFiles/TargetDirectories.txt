@@ -1,0 +1,3 @@
+/home/min/work/demo4_pro/build/CMakeFiles/rebuild_cache.dir
+/home/min/work/demo4_pro/build/CMakeFiles/pro.dir
+/home/min/work/demo4_pro/build/CMakeFiles/edit_cache.dir
